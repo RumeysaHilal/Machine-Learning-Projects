@@ -15,12 +15,15 @@ Visualization libraries are used to produce meaningful results and analysis thro
 ### Proportion of the Types attribute
 ![proportion-types](https://github.com/RumeysaHilal/Machine-Learning-Projects/assets/66912242/e8f7e088-e80c-4bcf-80f8-98336b4152d6)
 
+
+### PCA Method
 PCA (Principal Component Analysis), also known as factor analysis, is a method used to examine relationships between variables in a multidimensional dataset and to reduce the dimensionality of the dataset. PCA transforms a dataset into a set of principal components by using the correlations between variables in the dataset. These principal components retain the most information about variability in the dataset.
 
 This graph demonstrated that the first four features could be utilized as principal components.
 
 ![pca-explained](https://github.com/RumeysaHilal/Machine-Learning-Projects/assets/66912242/52a2f8dc-d749-4880-a75e-5928d50b276e)
 
+### GridSearchCV and Pipeline Structure
 The effectiveness of models and the cleanliness of the code structure are improved using a pipeline structure. To find the best model, the GridSearchCV method was used. 
 
 ![gridsearch](https://github.com/RumeysaHilal/Machine-Learning-Projects/assets/66912242/d6a34481-6feb-4e4e-ad68-bc95e2c2de84)
