@@ -28,6 +28,7 @@ The effectiveness of models and the cleanliness of the code structure are improv
 
 ![gridsearch](https://github.com/RumeysaHilal/Machine-Learning-Projects/assets/66912242/d6a34481-6feb-4e4e-ad68-bc95e2c2de84)
 
+### Deployment
  The best performing model is saved using the pickle method, and deployment is accomplished using the Streamlit library.
 
 ![failure-pred](https://github.com/RumeysaHilal/Machine-Learning-Projects/assets/66912242/2f03ad69-8236-42c1-b187-ca9a9e3d22e6)
